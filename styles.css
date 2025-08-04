@@ -1,0 +1,92 @@
+@font-face {
+    font-family: football;
+    src: url(football.ttf);
+}
+body{
+
+    color:#121212;
+    border: 4px solid #043372ff;
+    width: 400px;
+    height: 900px;
+    margin: 3px 3px;
+    font-family: 'Bebas Neue', sans-serif;
+
+    margin: auto auto;
+    text-align: center;
+  
+#hero{
+    background: linear-gradient(#770000ff,#043372ff);
+ ;
+}
+   
+}
+#img{
+    width: 380px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+        border: 3px solid #121212;
+
+}
+#logo{
+    width: 200px;
+    text-align: center;
+}
+h1{
+    font-weight: bold;
+}
+#submit{
+    background-color: #043372ff;
+    color: white;
+    text-shadow: 0 0 1px #121212;
+    width: 190px;
+    border-radius: 5px;
+    font-weight: bold;
+    margin: 10px 0 10px 0;
+    padding: 10px 10px;
+    word-spacing: 5px;
+    font-family: football;
+    letter-spacing: 2px;
+}
+#email{
+    
+    color: white;
+    text-shadow: 0 0 1px #121212;
+    border-bottom: 4px solid #043372ff ;
+    margin: 10px o 10px 0;
+        padding: 10px 10px;
+            border-radius: 5px;
+
+
+
+}
+.form{
+    color: white;
+    text-shadow: 0 0 5px #121212;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: start;
+    margin-top: 50px;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: start;
+
+}
+#terms{
+        font-family: 'Courier New', Courier, monospace;
+        text-align: center;
+        color: #121212;
+        
+
+}
+
+a{
+color:#9D7D46ff;
+    text-shadow: 0 0 1px #121212;
+    text-align: center;
+    font-style: italic;
+}
